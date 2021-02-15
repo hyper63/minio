@@ -9,4 +9,6 @@ This is a template repository for running MINIO on render.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
+> NOTE: When setup in render go to settings and add "minio server /data" for the docker command option
+
 
